@@ -1,0 +1,791 @@
+====ready to train
+('__________', 0)
+______in i:0, minVal:1139.625000, maxVal:2962.125000, max-min:1822.500000
+split: dim 0, thresh  1135.98, thresh inequal: lt, the weighted error is 0.773
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1135.98})
+split: dim 0, thresh  1135.98, thresh inequal: gt, the weighted error is 0.227
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 1135.98})
+______in i:1, minVal:1313.375000, maxVal:3205.625000, max-min:1892.250000
+split: dim 1, thresh  2543.34, thresh inequal: lt, the weighted error is 0.225
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2543.3375000000001})
+split: dim 1, thresh  2547.12, thresh inequal: lt, the weighted error is 0.221
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2547.1220000000003})
+split: dim 1, thresh  2550.91, thresh inequal: lt, the weighted error is 0.221
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2550.9065000000001})
+split: dim 1, thresh  2554.69, thresh inequal: lt, the weighted error is 0.221
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2554.6909999999998})
+______in i:2, minVal:1067.000000, maxVal:3142.250000, max-min:2075.250000
+______in i:3, minVal:0.935414, maxVal:3317.902933, max-min:3316.967519
+split: dim 3, thresh  20.84, thresh inequal: lt, the weighted error is 0.209
+('bestStump: ', {'dim': 3, 'ineq': 'lt', 'thresh': 20.837219460593488})
+split: dim 3, thresh  27.47, thresh inequal: lt, the weighted error is 0.186
+('bestStump: ', {'dim': 3, 'ineq': 'lt', 'thresh': 27.471154498560153})
+split: dim 3, thresh  34.11, thresh inequal: lt, the weighted error is 0.174
+('bestStump: ', {'dim': 3, 'ineq': 'lt', 'thresh': 34.105089536526819})
+split: dim 3, thresh  40.74, thresh inequal: lt, the weighted error is 0.169
+('bestStump: ', {'dim': 3, 'ineq': 'lt', 'thresh': 40.739024574493492})
+split: dim 3, thresh  47.37, thresh inequal: lt, the weighted error is 0.167
+('bestStump: ', {'dim': 3, 'ineq': 'lt', 'thresh': 47.372959612460157})
+split: dim 3, thresh  54.01, thresh inequal: lt, the weighted error is 0.166
+('bestStump: ', {'dim': 3, 'ineq': 'lt', 'thresh': 54.006894650426823})
+______in i:4, minVal:0.935414, maxVal:4959.933253, max-min:4958.997839
+split: dim 4, thresh  40.61, thresh inequal: lt, the weighted error is 0.163
+('bestStump: ', {'dim': 4, 'ineq': 'lt', 'thresh': 40.607397056552877})
+split: dim 4, thresh  50.53, thresh inequal: lt, the weighted error is 0.153
+('bestStump: ', {'dim': 4, 'ineq': 'lt', 'thresh': 50.525392734017721})
+split: dim 4, thresh  60.44, thresh inequal: lt, the weighted error is 0.149
+('bestStump: ', {'dim': 4, 'ineq': 'lt', 'thresh': 60.443388411482573})
+split: dim 4, thresh  70.36, thresh inequal: lt, the weighted error is 0.147
+('bestStump: ', {'dim': 4, 'ineq': 'lt', 'thresh': 70.361384088947432})
+______in i:5, minVal:0.000000, maxVal:4878.821374, max-min:4878.821374
+('bestStump: ', {'dim': 4, 'ineq': 'lt', 'thresh': 70.361384088947432, 'alpha': 0.8792694317286588})
+('total error is: ', 0.14697343129046334)
+('__________', 1)
+______in i:0, minVal:1139.625000, maxVal:2962.125000, max-min:1822.500000
+split: dim 0, thresh  1135.98, thresh inequal: lt, the weighted error is 0.635
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1135.98})
+split: dim 0, thresh  1135.98, thresh inequal: gt, the weighted error is 0.365
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 1135.98})
+______in i:1, minVal:1313.375000, maxVal:3205.625000, max-min:1892.250000
+______in i:2, minVal:1067.000000, maxVal:3142.250000, max-min:2075.250000
+split: dim 2, thresh  1718.63, thresh inequal: gt, the weighted error is 0.365
+('bestStump: ', {'dim': 2, 'ineq': 'gt', 'thresh': 1718.6285})
+______in i:3, minVal:0.935414, maxVal:3317.902933, max-min:3316.967519
+______in i:4, minVal:0.935414, maxVal:4959.933253, max-min:4958.997839
+______in i:5, minVal:0.000000, maxVal:4878.821374, max-min:4878.821374
+('bestStump: ', {'dim': 2, 'ineq': 'gt', 'thresh': 1718.6285, 'alpha': 0.27732465781578336})
+('total error is: ', 0.14697343129046334)
+('__________', 2)
+______in i:0, minVal:1139.625000, maxVal:2962.125000, max-min:1822.500000
+split: dim 0, thresh  1135.98, thresh inequal: lt, the weighted error is 0.503
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1135.98})
+split: dim 0, thresh  1135.98, thresh inequal: gt, the weighted error is 0.497
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 1135.98})
+split: dim 0, thresh  1726.47, thresh inequal: lt, the weighted error is 0.497
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1726.47})
+split: dim 0, thresh  1730.12, thresh inequal: lt, the weighted error is 0.497
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1730.115})
+split: dim 0, thresh  1733.76, thresh inequal: lt, the weighted error is 0.497
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1733.76})
+split: dim 0, thresh  1737.40, thresh inequal: lt, the weighted error is 0.497
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1737.405})
+split: dim 0, thresh  1741.05, thresh inequal: lt, the weighted error is 0.496
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1741.05})
+split: dim 0, thresh  1744.70, thresh inequal: lt, the weighted error is 0.496
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1744.6950000000002})
+split: dim 0, thresh  1748.34, thresh inequal: lt, the weighted error is 0.496
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1748.3400000000001})
+split: dim 0, thresh  1751.99, thresh inequal: lt, the weighted error is 0.495
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1751.9850000000001})
+split: dim 0, thresh  1755.63, thresh inequal: lt, the weighted error is 0.495
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1755.6300000000001})
+split: dim 0, thresh  1759.28, thresh inequal: lt, the weighted error is 0.494
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1759.2750000000001})
+split: dim 0, thresh  1835.82, thresh inequal: gt, the weighted error is 0.494
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 1835.8200000000002})
+split: dim 0, thresh  1839.47, thresh inequal: gt, the weighted error is 0.494
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 1839.4650000000001})
+split: dim 0, thresh  1843.11, thresh inequal: gt, the weighted error is 0.493
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 1843.1100000000001})
+split: dim 0, thresh  1846.76, thresh inequal: gt, the weighted error is 0.493
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 1846.7550000000001})
+split: dim 0, thresh  1850.40, thresh inequal: gt, the weighted error is 0.492
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 1850.4000000000001})
+split: dim 0, thresh  1854.05, thresh inequal: gt, the weighted error is 0.492
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 1854.0450000000001})
+split: dim 0, thresh  1857.69, thresh inequal: gt, the weighted error is 0.491
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 1857.6900000000001})
+split: dim 0, thresh  1861.34, thresh inequal: gt, the weighted error is 0.491
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 1861.335})
+split: dim 0, thresh  1864.98, thresh inequal: gt, the weighted error is 0.491
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 1864.98})
+split: dim 0, thresh  1886.85, thresh inequal: gt, the weighted error is 0.490
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 1886.8499999999999})
+split: dim 0, thresh  1890.49, thresh inequal: gt, the weighted error is 0.488
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 1890.4949999999999})
+split: dim 0, thresh  1894.14, thresh inequal: gt, the weighted error is 0.486
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 1894.1399999999999})
+split: dim 0, thresh  2032.65, thresh inequal: gt, the weighted error is 0.485
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 2032.6500000000001})
+split: dim 0, thresh  2036.30, thresh inequal: gt, the weighted error is 0.485
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 2036.2950000000001})
+______in i:1, minVal:1313.375000, maxVal:3205.625000, max-min:1892.250000
+split: dim 1, thresh  2293.56, thresh inequal: gt, the weighted error is 0.485
+('bestStump: ', {'dim': 1, 'ineq': 'gt', 'thresh': 2293.5605})
+split: dim 1, thresh  2297.35, thresh inequal: gt, the weighted error is 0.482
+('bestStump: ', {'dim': 1, 'ineq': 'gt', 'thresh': 2297.3450000000003})
+split: dim 1, thresh  2301.13, thresh inequal: gt, the weighted error is 0.480
+('bestStump: ', {'dim': 1, 'ineq': 'gt', 'thresh': 2301.1295})
+split: dim 1, thresh  2304.91, thresh inequal: gt, the weighted error is 0.477
+('bestStump: ', {'dim': 1, 'ineq': 'gt', 'thresh': 2304.9139999999998})
+split: dim 1, thresh  2308.70, thresh inequal: gt, the weighted error is 0.473
+('bestStump: ', {'dim': 1, 'ineq': 'gt', 'thresh': 2308.6985})
+split: dim 1, thresh  2312.48, thresh inequal: gt, the weighted error is 0.468
+('bestStump: ', {'dim': 1, 'ineq': 'gt', 'thresh': 2312.4830000000002})
+split: dim 1, thresh  2316.27, thresh inequal: gt, the weighted error is 0.464
+('bestStump: ', {'dim': 1, 'ineq': 'gt', 'thresh': 2316.2674999999999})
+split: dim 1, thresh  2320.05, thresh inequal: gt, the weighted error is 0.454
+('bestStump: ', {'dim': 1, 'ineq': 'gt', 'thresh': 2320.0520000000001})
+split: dim 1, thresh  2323.84, thresh inequal: gt, the weighted error is 0.450
+('bestStump: ', {'dim': 1, 'ineq': 'gt', 'thresh': 2323.8364999999999})
+split: dim 1, thresh  2327.62, thresh inequal: gt, the weighted error is 0.447
+('bestStump: ', {'dim': 1, 'ineq': 'gt', 'thresh': 2327.6210000000001})
+split: dim 1, thresh  2331.41, thresh inequal: gt, the weighted error is 0.444
+('bestStump: ', {'dim': 1, 'ineq': 'gt', 'thresh': 2331.4054999999998})
+split: dim 1, thresh  2335.19, thresh inequal: gt, the weighted error is 0.441
+('bestStump: ', {'dim': 1, 'ineq': 'gt', 'thresh': 2335.1900000000001})
+split: dim 1, thresh  2338.97, thresh inequal: gt, the weighted error is 0.438
+('bestStump: ', {'dim': 1, 'ineq': 'gt', 'thresh': 2338.9745000000003})
+split: dim 1, thresh  2342.76, thresh inequal: gt, the weighted error is 0.436
+('bestStump: ', {'dim': 1, 'ineq': 'gt', 'thresh': 2342.759})
+______in i:2, minVal:1067.000000, maxVal:3142.250000, max-min:2075.250000
+______in i:3, minVal:0.935414, maxVal:3317.902933, max-min:3316.967519
+______in i:4, minVal:0.935414, maxVal:4959.933253, max-min:4958.997839
+______in i:5, minVal:0.000000, maxVal:4878.821374, max-min:4878.821374
+('bestStump: ', {'dim': 1, 'ineq': 'gt', 'thresh': 2342.759, 'alpha': 0.1292431899873138})
+('total error is: ', 0.14697343129046334)
+('__________', 3)
+______in i:0, minVal:1139.625000, maxVal:2962.125000, max-min:1822.500000
+split: dim 0, thresh  1135.98, thresh inequal: lt, the weighted error is 0.484
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1135.98})
+split: dim 0, thresh  1139.62, thresh inequal: lt, the weighted error is 0.484
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1139.625})
+split: dim 0, thresh  1205.23, thresh inequal: lt, the weighted error is 0.484
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1205.2349999999999})
+split: dim 0, thresh  1332.81, thresh inequal: lt, the weighted error is 0.484
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1332.8099999999999})
+split: dim 0, thresh  1358.33, thresh inequal: lt, the weighted error is 0.484
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1358.325})
+split: dim 0, thresh  1398.42, thresh inequal: lt, the weighted error is 0.484
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1398.4200000000001})
+split: dim 0, thresh  1405.71, thresh inequal: lt, the weighted error is 0.484
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1405.71})
+split: dim 0, thresh  1438.51, thresh inequal: lt, the weighted error is 0.484
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1438.5149999999999})
+split: dim 0, thresh  1474.96, thresh inequal: lt, the weighted error is 0.484
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1474.9649999999999})
+split: dim 0, thresh  1493.19, thresh inequal: lt, the weighted error is 0.484
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1493.1900000000001})
+split: dim 0, thresh  1507.77, thresh inequal: lt, the weighted error is 0.484
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1507.77})
+split: dim 0, thresh  1522.35, thresh inequal: lt, the weighted error is 0.484
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1522.3499999999999})
+split: dim 0, thresh  1525.99, thresh inequal: lt, the weighted error is 0.484
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1525.9949999999999})
+split: dim 0, thresh  1544.22, thresh inequal: lt, the weighted error is 0.484
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1544.22})
+split: dim 0, thresh  1547.87, thresh inequal: lt, the weighted error is 0.483
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1547.865})
+split: dim 0, thresh  1558.80, thresh inequal: lt, the weighted error is 0.483
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1558.8})
+split: dim 0, thresh  1562.44, thresh inequal: lt, the weighted error is 0.483
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1562.4449999999999})
+split: dim 0, thresh  1580.67, thresh inequal: lt, the weighted error is 0.483
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1580.6700000000001})
+split: dim 0, thresh  1584.32, thresh inequal: lt, the weighted error is 0.483
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1584.3150000000001})
+split: dim 0, thresh  1587.96, thresh inequal: lt, the weighted error is 0.483
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1587.96})
+split: dim 0, thresh  1591.61, thresh inequal: lt, the weighted error is 0.483
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1591.605})
+split: dim 0, thresh  1598.89, thresh inequal: lt, the weighted error is 0.483
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1598.895})
+split: dim 0, thresh  1602.54, thresh inequal: lt, the weighted error is 0.483
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1602.54})
+split: dim 0, thresh  1606.18, thresh inequal: lt, the weighted error is 0.483
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1606.1849999999999})
+split: dim 0, thresh  1609.83, thresh inequal: lt, the weighted error is 0.483
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1609.8299999999999})
+split: dim 0, thresh  1613.47, thresh inequal: lt, the weighted error is 0.483
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1613.4749999999999})
+split: dim 0, thresh  1617.12, thresh inequal: lt, the weighted error is 0.483
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1617.1199999999999})
+split: dim 0, thresh  1620.76, thresh inequal: lt, the weighted error is 0.483
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1620.7649999999999})
+split: dim 0, thresh  1624.41, thresh inequal: lt, the weighted error is 0.483
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1624.4100000000001})
+split: dim 0, thresh  1628.06, thresh inequal: lt, the weighted error is 0.483
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1628.0550000000001})
+split: dim 0, thresh  1631.70, thresh inequal: lt, the weighted error is 0.483
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1631.7})
+split: dim 0, thresh  1635.35, thresh inequal: lt, the weighted error is 0.483
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1635.345})
+split: dim 0, thresh  1638.99, thresh inequal: lt, the weighted error is 0.483
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1638.99})
+split: dim 0, thresh  1642.63, thresh inequal: lt, the weighted error is 0.483
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1642.635})
+split: dim 0, thresh  1646.28, thresh inequal: lt, the weighted error is 0.483
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1646.28})
+split: dim 0, thresh  1649.92, thresh inequal: lt, the weighted error is 0.483
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1649.925})
+split: dim 0, thresh  1653.57, thresh inequal: lt, the weighted error is 0.483
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1653.5700000000002})
+split: dim 0, thresh  1657.22, thresh inequal: lt, the weighted error is 0.483
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1657.2150000000001})
+split: dim 0, thresh  1660.86, thresh inequal: lt, the weighted error is 0.482
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1660.8600000000001})
+split: dim 0, thresh  1664.51, thresh inequal: lt, the weighted error is 0.482
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1664.5050000000001})
+split: dim 0, thresh  1668.15, thresh inequal: lt, the weighted error is 0.482
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1668.1500000000001})
+split: dim 0, thresh  1671.80, thresh inequal: lt, the weighted error is 0.482
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1671.7950000000001})
+split: dim 0, thresh  1675.44, thresh inequal: lt, the weighted error is 0.481
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1675.4400000000001})
+split: dim 0, thresh  1679.09, thresh inequal: lt, the weighted error is 0.481
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1679.085})
+split: dim 0, thresh  1682.73, thresh inequal: lt, the weighted error is 0.481
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1682.73})
+split: dim 0, thresh  1686.38, thresh inequal: lt, the weighted error is 0.481
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1686.375})
+split: dim 0, thresh  1690.02, thresh inequal: lt, the weighted error is 0.480
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1690.02})
+split: dim 0, thresh  1693.66, thresh inequal: lt, the weighted error is 0.480
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1693.665})
+split: dim 0, thresh  1697.31, thresh inequal: lt, the weighted error is 0.480
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1697.3099999999999})
+split: dim 0, thresh  1700.95, thresh inequal: lt, the weighted error is 0.479
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1700.9549999999999})
+split: dim 0, thresh  1704.60, thresh inequal: lt, the weighted error is 0.479
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1704.5999999999999})
+split: dim 0, thresh  1708.24, thresh inequal: lt, the weighted error is 0.478
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1708.2449999999999})
+split: dim 0, thresh  1711.89, thresh inequal: lt, the weighted error is 0.478
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1711.8899999999999})
+split: dim 0, thresh  1715.53, thresh inequal: lt, the weighted error is 0.477
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1715.5349999999999})
+split: dim 0, thresh  1719.18, thresh inequal: lt, the weighted error is 0.477
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1719.1799999999998})
+split: dim 0, thresh  1722.83, thresh inequal: lt, the weighted error is 0.477
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1722.825})
+split: dim 0, thresh  1726.47, thresh inequal: lt, the weighted error is 0.477
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1726.47})
+split: dim 0, thresh  1730.12, thresh inequal: lt, the weighted error is 0.476
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1730.115})
+split: dim 0, thresh  1733.76, thresh inequal: lt, the weighted error is 0.476
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1733.76})
+split: dim 0, thresh  1737.40, thresh inequal: lt, the weighted error is 0.476
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1737.405})
+split: dim 0, thresh  1741.05, thresh inequal: lt, the weighted error is 0.475
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1741.05})
+split: dim 0, thresh  1744.70, thresh inequal: lt, the weighted error is 0.475
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1744.6950000000002})
+split: dim 0, thresh  1748.34, thresh inequal: lt, the weighted error is 0.475
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1748.3400000000001})
+split: dim 0, thresh  1751.99, thresh inequal: lt, the weighted error is 0.474
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1751.9850000000001})
+split: dim 0, thresh  1755.63, thresh inequal: lt, the weighted error is 0.474
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1755.6300000000001})
+split: dim 0, thresh  1759.28, thresh inequal: lt, the weighted error is 0.473
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1759.2750000000001})
+split: dim 0, thresh  1799.37, thresh inequal: lt, the weighted error is 0.473
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1799.3699999999999})
+split: dim 0, thresh  1803.01, thresh inequal: lt, the weighted error is 0.472
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1803.0149999999999})
+split: dim 0, thresh  1806.66, thresh inequal: lt, the weighted error is 0.471
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1806.6599999999999})
+______in i:1, minVal:1313.375000, maxVal:3205.625000, max-min:1892.250000
+split: dim 1, thresh  2183.81, thresh inequal: lt, the weighted error is 0.471
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2183.8099999999999})
+split: dim 1, thresh  2187.59, thresh inequal: lt, the weighted error is 0.471
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2187.5945000000002})
+split: dim 1, thresh  2191.38, thresh inequal: lt, the weighted error is 0.471
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2191.3789999999999})
+split: dim 1, thresh  2195.16, thresh inequal: lt, the weighted error is 0.471
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2195.1635000000001})
+split: dim 1, thresh  2198.95, thresh inequal: lt, the weighted error is 0.470
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2198.9479999999999})
+split: dim 1, thresh  2202.73, thresh inequal: lt, the weighted error is 0.470
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2202.7325000000001})
+split: dim 1, thresh  2206.52, thresh inequal: lt, the weighted error is 0.470
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2206.5169999999998})
+split: dim 1, thresh  2210.30, thresh inequal: lt, the weighted error is 0.470
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2210.3015})
+split: dim 1, thresh  2214.09, thresh inequal: lt, the weighted error is 0.470
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2214.0860000000002})
+split: dim 1, thresh  2229.22, thresh inequal: lt, the weighted error is 0.469
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2229.2240000000002})
+split: dim 1, thresh  2233.01, thresh inequal: lt, the weighted error is 0.468
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2233.0084999999999})
+split: dim 1, thresh  2236.79, thresh inequal: lt, the weighted error is 0.467
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2236.7930000000001})
+split: dim 1, thresh  2240.58, thresh inequal: lt, the weighted error is 0.466
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2240.5774999999999})
+split: dim 1, thresh  2244.36, thresh inequal: lt, the weighted error is 0.465
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2244.3620000000001})
+split: dim 1, thresh  2248.15, thresh inequal: lt, the weighted error is 0.462
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2248.1464999999998})
+split: dim 1, thresh  2251.93, thresh inequal: lt, the weighted error is 0.460
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2251.931})
+split: dim 1, thresh  2255.72, thresh inequal: lt, the weighted error is 0.459
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2255.7155000000002})
+______in i:2, minVal:1067.000000, maxVal:3142.250000, max-min:2075.250000
+______in i:3, minVal:0.935414, maxVal:3317.902933, max-min:3316.967519
+split: dim 3, thresh  14.20, thresh inequal: lt, the weighted error is 0.445
+('bestStump: ', {'dim': 3, 'ineq': 'lt', 'thresh': 14.203284422626821})
+______in i:4, minVal:0.935414, maxVal:4959.933253, max-min:4958.997839
+split: dim 4, thresh  10.85, thresh inequal: lt, the weighted error is 0.445
+('bestStump: ', {'dim': 4, 'ineq': 'lt', 'thresh': 10.853410024158334})
+split: dim 4, thresh  70.36, thresh inequal: gt, the weighted error is 0.437
+('bestStump: ', {'dim': 4, 'ineq': 'gt', 'thresh': 70.361384088947432})
+______in i:5, minVal:0.000000, maxVal:4878.821374, max-min:4878.821374
+('bestStump: ', {'dim': 4, 'ineq': 'gt', 'thresh': 70.361384088947432, 'alpha': 0.12691041025503172})
+('total error is: ', 0.14697343129046334)
+('__________', 4)
+______in i:0, minVal:1139.625000, maxVal:2962.125000, max-min:1822.500000
+split: dim 0, thresh  1135.98, thresh inequal: lt, the weighted error is 0.510
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1135.98})
+split: dim 0, thresh  1135.98, thresh inequal: gt, the weighted error is 0.490
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 1135.98})
+split: dim 0, thresh  1985.26, thresh inequal: lt, the weighted error is 0.489
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1985.2649999999999})
+split: dim 0, thresh  2076.39, thresh inequal: lt, the weighted error is 0.485
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 2076.3899999999999})
+split: dim 0, thresh  2101.90, thresh inequal: lt, the weighted error is 0.485
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 2101.9049999999997})
+split: dim 0, thresh  2105.55, thresh inequal: lt, the weighted error is 0.484
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 2105.5500000000002})
+split: dim 0, thresh  2109.20, thresh inequal: lt, the weighted error is 0.483
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 2109.1950000000002})
+split: dim 0, thresh  2112.84, thresh inequal: lt, the weighted error is 0.482
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 2112.8400000000001})
+split: dim 0, thresh  2116.49, thresh inequal: lt, the weighted error is 0.481
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 2116.4850000000001})
+split: dim 0, thresh  2120.13, thresh inequal: lt, the weighted error is 0.480
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 2120.1300000000001})
+______in i:1, minVal:1313.375000, maxVal:3205.625000, max-min:1892.250000
+split: dim 1, thresh  2384.39, thresh inequal: lt, the weighted error is 0.477
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2384.3885})
+split: dim 1, thresh  2388.17, thresh inequal: lt, the weighted error is 0.468
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2388.1729999999998})
+split: dim 1, thresh  2391.96, thresh inequal: lt, the weighted error is 0.467
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2391.9575})
+split: dim 1, thresh  2395.74, thresh inequal: lt, the weighted error is 0.465
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2395.7420000000002})
+split: dim 1, thresh  2399.53, thresh inequal: lt, the weighted error is 0.463
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2399.5264999999999})
+split: dim 1, thresh  2403.31, thresh inequal: lt, the weighted error is 0.461
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2403.3109999999997})
+______in i:2, minVal:1067.000000, maxVal:3142.250000, max-min:2075.250000
+______in i:3, minVal:0.935414, maxVal:3317.902933, max-min:3316.967519
+split: dim 3, thresh  14.20, thresh inequal: lt, the weighted error is 0.414
+('bestStump: ', {'dim': 3, 'ineq': 'lt', 'thresh': 14.203284422626821})
+split: dim 3, thresh  20.84, thresh inequal: lt, the weighted error is 0.410
+('bestStump: ', {'dim': 3, 'ineq': 'lt', 'thresh': 20.837219460593488})
+______in i:4, minVal:0.935414, maxVal:4959.933253, max-min:4958.997839
+split: dim 4, thresh  20.77, thresh inequal: lt, the weighted error is 0.408
+('bestStump: ', {'dim': 4, 'ineq': 'lt', 'thresh': 20.771405701623181})
+______in i:5, minVal:0.000000, maxVal:4878.821374, max-min:4878.821374
+('bestStump: ', {'dim': 4, 'ineq': 'lt', 'thresh': 20.771405701623181, 'alpha': 0.185358388373323})
+('total error is: ', 0.14697343129046334)
+('__________', 5)
+______in i:0, minVal:1139.625000, maxVal:2962.125000, max-min:1822.500000
+split: dim 0, thresh  1135.98, thresh inequal: lt, the weighted error is 0.509
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1135.98})
+split: dim 0, thresh  1135.98, thresh inequal: gt, the weighted error is 0.491
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 1135.98})
+split: dim 0, thresh  2072.74, thresh inequal: lt, the weighted error is 0.487
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 2072.7449999999999})
+split: dim 0, thresh  2076.39, thresh inequal: lt, the weighted error is 0.482
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 2076.3899999999999})
+split: dim 0, thresh  2116.49, thresh inequal: lt, the weighted error is 0.482
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 2116.4850000000001})
+split: dim 0, thresh  2120.13, thresh inequal: lt, the weighted error is 0.482
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 2120.1300000000001})
+______in i:1, minVal:1313.375000, maxVal:3205.625000, max-min:1892.250000
+split: dim 1, thresh  2251.93, thresh inequal: lt, the weighted error is 0.481
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2251.931})
+split: dim 1, thresh  2255.72, thresh inequal: lt, the weighted error is 0.480
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2255.7155000000002})
+split: dim 1, thresh  2388.17, thresh inequal: lt, the weighted error is 0.477
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2388.1729999999998})
+split: dim 1, thresh  2391.96, thresh inequal: lt, the weighted error is 0.476
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2391.9575})
+split: dim 1, thresh  2395.74, thresh inequal: lt, the weighted error is 0.474
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2395.7420000000002})
+split: dim 1, thresh  2399.53, thresh inequal: lt, the weighted error is 0.471
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2399.5264999999999})
+split: dim 1, thresh  2403.31, thresh inequal: lt, the weighted error is 0.469
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2403.3109999999997})
+split: dim 1, thresh  2407.10, thresh inequal: lt, the weighted error is 0.469
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2407.0954999999999})
+______in i:2, minVal:1067.000000, maxVal:3142.250000, max-min:2075.250000
+______in i:3, minVal:0.935414, maxVal:3317.902933, max-min:3316.967519
+______in i:4, minVal:0.935414, maxVal:4959.933253, max-min:4958.997839
+split: dim 4, thresh  60.44, thresh inequal: gt, the weighted error is 0.464
+('bestStump: ', {'dim': 4, 'ineq': 'gt', 'thresh': 60.443388411482573})
+split: dim 4, thresh  70.36, thresh inequal: gt, the weighted error is 0.443
+('bestStump: ', {'dim': 4, 'ineq': 'gt', 'thresh': 70.361384088947432})
+______in i:5, minVal:0.000000, maxVal:4878.821374, max-min:4878.821374
+('bestStump: ', {'dim': 4, 'ineq': 'gt', 'thresh': 70.361384088947432, 'alpha': 0.11440912305556189})
+('total error is: ', 0.14697343129046334)
+('__________', 6)
+______in i:0, minVal:1139.625000, maxVal:2962.125000, max-min:1822.500000
+split: dim 0, thresh  1135.98, thresh inequal: lt, the weighted error is 0.531
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1135.98})
+split: dim 0, thresh  1135.98, thresh inequal: gt, the weighted error is 0.469
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 1135.98})
+split: dim 0, thresh  2109.20, thresh inequal: lt, the weighted error is 0.468
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 2109.1950000000002})
+split: dim 0, thresh  2112.84, thresh inequal: lt, the weighted error is 0.467
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 2112.8400000000001})
+split: dim 0, thresh  2116.49, thresh inequal: lt, the weighted error is 0.466
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 2116.4850000000001})
+split: dim 0, thresh  2120.13, thresh inequal: lt, the weighted error is 0.464
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 2120.1300000000001})
+______in i:1, minVal:1313.375000, maxVal:3205.625000, max-min:1892.250000
+split: dim 1, thresh  2388.17, thresh inequal: lt, the weighted error is 0.461
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2388.1729999999998})
+split: dim 1, thresh  2391.96, thresh inequal: lt, the weighted error is 0.460
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2391.9575})
+split: dim 1, thresh  2395.74, thresh inequal: lt, the weighted error is 0.457
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2395.7420000000002})
+split: dim 1, thresh  2399.53, thresh inequal: lt, the weighted error is 0.454
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2399.5264999999999})
+split: dim 1, thresh  2403.31, thresh inequal: lt, the weighted error is 0.452
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2403.3109999999997})
+split: dim 1, thresh  2407.10, thresh inequal: lt, the weighted error is 0.451
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2407.0954999999999})
+______in i:2, minVal:1067.000000, maxVal:3142.250000, max-min:2075.250000
+______in i:3, minVal:0.935414, maxVal:3317.902933, max-min:3316.967519
+split: dim 3, thresh  20.84, thresh inequal: lt, the weighted error is 0.448
+('bestStump: ', {'dim': 3, 'ineq': 'lt', 'thresh': 20.837219460593488})
+split: dim 3, thresh  27.47, thresh inequal: lt, the weighted error is 0.446
+('bestStump: ', {'dim': 3, 'ineq': 'lt', 'thresh': 27.471154498560153})
+______in i:4, minVal:0.935414, maxVal:4959.933253, max-min:4958.997839
+______in i:5, minVal:0.000000, maxVal:4878.821374, max-min:4878.821374
+split: dim 5, thresh  29.27, thresh inequal: lt, the weighted error is 0.445
+('bestStump: ', {'dim': 5, 'ineq': 'lt', 'thresh': 29.272928244369407})
+split: dim 5, thresh  39.03, thresh inequal: lt, the weighted error is 0.445
+('bestStump: ', {'dim': 5, 'ineq': 'lt', 'thresh': 39.030570992492542})
+('bestStump: ', {'dim': 5, 'ineq': 'lt', 'thresh': 39.030570992492542, 'alpha': 0.11099227384345131})
+('total error is: ', 0.1470418283234472)
+('__________', 7)
+______in i:0, minVal:1139.625000, maxVal:2962.125000, max-min:1822.500000
+split: dim 0, thresh  1135.98, thresh inequal: lt, the weighted error is 0.516
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1135.98})
+split: dim 0, thresh  1135.98, thresh inequal: gt, the weighted error is 0.484
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 1135.98})
+split: dim 0, thresh  2072.74, thresh inequal: lt, the weighted error is 0.484
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 2072.7449999999999})
+split: dim 0, thresh  2076.39, thresh inequal: lt, the weighted error is 0.479
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 2076.3899999999999})
+split: dim 0, thresh  2109.20, thresh inequal: lt, the weighted error is 0.478
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 2109.1950000000002})
+split: dim 0, thresh  2112.84, thresh inequal: lt, the weighted error is 0.477
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 2112.8400000000001})
+split: dim 0, thresh  2116.49, thresh inequal: lt, the weighted error is 0.477
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 2116.4850000000001})
+split: dim 0, thresh  2120.13, thresh inequal: lt, the weighted error is 0.476
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 2120.1300000000001})
+______in i:1, minVal:1313.375000, maxVal:3205.625000, max-min:1892.250000
+split: dim 1, thresh  2388.17, thresh inequal: lt, the weighted error is 0.473
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2388.1729999999998})
+split: dim 1, thresh  2391.96, thresh inequal: lt, the weighted error is 0.472
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2391.9575})
+split: dim 1, thresh  2395.74, thresh inequal: lt, the weighted error is 0.470
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2395.7420000000002})
+split: dim 1, thresh  2399.53, thresh inequal: lt, the weighted error is 0.467
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2399.5264999999999})
+split: dim 1, thresh  2403.31, thresh inequal: lt, the weighted error is 0.464
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2403.3109999999997})
+split: dim 1, thresh  2407.10, thresh inequal: lt, the weighted error is 0.464
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2407.0954999999999})
+______in i:2, minVal:1067.000000, maxVal:3142.250000, max-min:2075.250000
+______in i:3, minVal:0.935414, maxVal:3317.902933, max-min:3316.967519
+______in i:4, minVal:0.935414, maxVal:4959.933253, max-min:4958.997839
+split: dim 4, thresh  70.36, thresh inequal: gt, the weighted error is 0.459
+('bestStump: ', {'dim': 4, 'ineq': 'gt', 'thresh': 70.361384088947432})
+______in i:5, minVal:0.000000, maxVal:4878.821374, max-min:4878.821374
+('bestStump: ', {'dim': 4, 'ineq': 'gt', 'thresh': 70.361384088947432, 'alpha': 0.08265872496354557})
+('total error is: ', 0.1470418283234472)
+('__________', 8)
+______in i:0, minVal:1139.625000, maxVal:2962.125000, max-min:1822.500000
+split: dim 0, thresh  1135.98, thresh inequal: lt, the weighted error is 0.532
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1135.98})
+split: dim 0, thresh  1135.98, thresh inequal: gt, the weighted error is 0.468
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 1135.98})
+split: dim 0, thresh  2109.20, thresh inequal: lt, the weighted error is 0.467
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 2109.1950000000002})
+split: dim 0, thresh  2112.84, thresh inequal: lt, the weighted error is 0.466
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 2112.8400000000001})
+split: dim 0, thresh  2116.49, thresh inequal: lt, the weighted error is 0.465
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 2116.4850000000001})
+split: dim 0, thresh  2120.13, thresh inequal: lt, the weighted error is 0.463
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 2120.1300000000001})
+______in i:1, minVal:1313.375000, maxVal:3205.625000, max-min:1892.250000
+split: dim 1, thresh  2388.17, thresh inequal: lt, the weighted error is 0.462
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2388.1729999999998})
+split: dim 1, thresh  2391.96, thresh inequal: lt, the weighted error is 0.460
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2391.9575})
+split: dim 1, thresh  2395.74, thresh inequal: lt, the weighted error is 0.457
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2395.7420000000002})
+split: dim 1, thresh  2399.53, thresh inequal: lt, the weighted error is 0.454
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2399.5264999999999})
+split: dim 1, thresh  2403.31, thresh inequal: lt, the weighted error is 0.452
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2403.3109999999997})
+split: dim 1, thresh  2407.10, thresh inequal: lt, the weighted error is 0.451
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2407.0954999999999})
+______in i:2, minVal:1067.000000, maxVal:3142.250000, max-min:2075.250000
+______in i:3, minVal:0.935414, maxVal:3317.902933, max-min:3316.967519
+______in i:4, minVal:0.935414, maxVal:4959.933253, max-min:4958.997839
+______in i:5, minVal:0.000000, maxVal:4878.821374, max-min:4878.821374
+('bestStump: ', {'dim': 1, 'ineq': 'lt', 'thresh': 2407.0954999999999, 'alpha': 0.09776526208866229})
+('total error is: ', 0.1470418283234472)
+('__________', 9)
+______in i:0, minVal:1139.625000, maxVal:2962.125000, max-min:1822.500000
+split: dim 0, thresh  1135.98, thresh inequal: lt, the weighted error is 0.513
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1135.98})
+split: dim 0, thresh  1135.98, thresh inequal: gt, the weighted error is 0.487
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 1135.98})
+split: dim 0, thresh  1886.85, thresh inequal: gt, the weighted error is 0.485
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 1886.8499999999999})
+split: dim 0, thresh  1890.49, thresh inequal: gt, the weighted error is 0.482
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 1890.4949999999999})
+split: dim 0, thresh  1894.14, thresh inequal: gt, the weighted error is 0.481
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 1894.1399999999999})
+split: dim 0, thresh  2116.49, thresh inequal: lt, the weighted error is 0.480
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 2116.4850000000001})
+split: dim 0, thresh  2120.13, thresh inequal: lt, the weighted error is 0.478
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 2120.1300000000001})
+______in i:1, minVal:1313.375000, maxVal:3205.625000, max-min:1892.250000
+split: dim 1, thresh  2335.19, thresh inequal: gt, the weighted error is 0.478
+('bestStump: ', {'dim': 1, 'ineq': 'gt', 'thresh': 2335.1900000000001})
+split: dim 1, thresh  2346.54, thresh inequal: gt, the weighted error is 0.477
+('bestStump: ', {'dim': 1, 'ineq': 'gt', 'thresh': 2346.5434999999998})
+split: dim 1, thresh  2350.33, thresh inequal: gt, the weighted error is 0.474
+('bestStump: ', {'dim': 1, 'ineq': 'gt', 'thresh': 2350.328})
+split: dim 1, thresh  2373.03, thresh inequal: gt, the weighted error is 0.473
+('bestStump: ', {'dim': 1, 'ineq': 'gt', 'thresh': 2373.0349999999999})
+split: dim 1, thresh  2516.85, thresh inequal: gt, the weighted error is 0.473
+('bestStump: ', {'dim': 1, 'ineq': 'gt', 'thresh': 2516.846})
+split: dim 1, thresh  2520.63, thresh inequal: gt, the weighted error is 0.470
+('bestStump: ', {'dim': 1, 'ineq': 'gt', 'thresh': 2520.6305000000002})
+______in i:2, minVal:1067.000000, maxVal:3142.250000, max-min:2075.250000
+______in i:3, minVal:0.935414, maxVal:3317.902933, max-min:3316.967519
+split: dim 3, thresh  20.84, thresh inequal: lt, the weighted error is 0.468
+('bestStump: ', {'dim': 3, 'ineq': 'lt', 'thresh': 20.837219460593488})
+______in i:4, minVal:0.935414, maxVal:4959.933253, max-min:4958.997839
+______in i:5, minVal:0.000000, maxVal:4878.821374, max-min:4878.821374
+('bestStump: ', {'dim': 3, 'ineq': 'lt', 'thresh': 20.837219460593488, 'alpha': 0.06470144256835782})
+('total error is: ', 0.14703475276831093)
+('__________', 10)
+______in i:0, minVal:1139.625000, maxVal:2962.125000, max-min:1822.500000
+split: dim 0, thresh  1135.98, thresh inequal: lt, the weighted error is 0.510
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1135.98})
+split: dim 0, thresh  1135.98, thresh inequal: gt, the weighted error is 0.490
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 1135.98})
+split: dim 0, thresh  1883.20, thresh inequal: gt, the weighted error is 0.489
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 1883.2049999999999})
+split: dim 0, thresh  1886.85, thresh inequal: gt, the weighted error is 0.487
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 1886.8499999999999})
+split: dim 0, thresh  1890.49, thresh inequal: gt, the weighted error is 0.483
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 1890.4949999999999})
+split: dim 0, thresh  1894.14, thresh inequal: gt, the weighted error is 0.482
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 1894.1399999999999})
+split: dim 0, thresh  2032.65, thresh inequal: gt, the weighted error is 0.480
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 2032.6500000000001})
+______in i:1, minVal:1313.375000, maxVal:3205.625000, max-min:1892.250000
+split: dim 1, thresh  2346.54, thresh inequal: gt, the weighted error is 0.479
+('bestStump: ', {'dim': 1, 'ineq': 'gt', 'thresh': 2346.5434999999998})
+split: dim 1, thresh  2350.33, thresh inequal: gt, the weighted error is 0.475
+('bestStump: ', {'dim': 1, 'ineq': 'gt', 'thresh': 2350.328})
+split: dim 1, thresh  2373.03, thresh inequal: gt, the weighted error is 0.472
+('bestStump: ', {'dim': 1, 'ineq': 'gt', 'thresh': 2373.0349999999999})
+split: dim 1, thresh  2520.63, thresh inequal: gt, the weighted error is 0.469
+('bestStump: ', {'dim': 1, 'ineq': 'gt', 'thresh': 2520.6305000000002})
+______in i:2, minVal:1067.000000, maxVal:3142.250000, max-min:2075.250000
+______in i:3, minVal:0.935414, maxVal:3317.902933, max-min:3316.967519
+______in i:4, minVal:0.935414, maxVal:4959.933253, max-min:4958.997839
+split: dim 4, thresh  70.36, thresh inequal: gt, the weighted error is 0.464
+('bestStump: ', {'dim': 4, 'ineq': 'gt', 'thresh': 70.361384088947432})
+______in i:5, minVal:0.000000, maxVal:4878.821374, max-min:4878.821374
+('bestStump: ', {'dim': 4, 'ineq': 'gt', 'thresh': 70.361384088947432, 'alpha': 0.07196570335403403})
+('total error is: ', 0.14693805351478201)
+('__________', 11)
+______in i:0, minVal:1139.625000, maxVal:2962.125000, max-min:1822.500000
+split: dim 0, thresh  1135.98, thresh inequal: lt, the weighted error is 0.524
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1135.98})
+split: dim 0, thresh  1135.98, thresh inequal: gt, the weighted error is 0.476
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 1135.98})
+split: dim 0, thresh  1890.49, thresh inequal: gt, the weighted error is 0.474
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 1890.4949999999999})
+split: dim 0, thresh  1894.14, thresh inequal: gt, the weighted error is 0.472
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 1894.1399999999999})
+split: dim 0, thresh  2116.49, thresh inequal: lt, the weighted error is 0.472
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 2116.4850000000001})
+split: dim 0, thresh  2120.13, thresh inequal: lt, the weighted error is 0.470
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 2120.1300000000001})
+______in i:1, minVal:1313.375000, maxVal:3205.625000, max-min:1892.250000
+______in i:2, minVal:1067.000000, maxVal:3142.250000, max-min:2075.250000
+______in i:3, minVal:0.935414, maxVal:3317.902933, max-min:3316.967519
+split: dim 3, thresh  40.74, thresh inequal: lt, the weighted error is 0.469
+('bestStump: ', {'dim': 3, 'ineq': 'lt', 'thresh': 40.739024574493492})
+split: dim 3, thresh  47.37, thresh inequal: lt, the weighted error is 0.468
+('bestStump: ', {'dim': 3, 'ineq': 'lt', 'thresh': 47.372959612460157})
+split: dim 3, thresh  54.01, thresh inequal: lt, the weighted error is 0.467
+('bestStump: ', {'dim': 3, 'ineq': 'lt', 'thresh': 54.006894650426823})
+split: dim 3, thresh  60.64, thresh inequal: lt, the weighted error is 0.466
+('bestStump: ', {'dim': 3, 'ineq': 'lt', 'thresh': 60.640829688393488})
+split: dim 3, thresh  67.27, thresh inequal: lt, the weighted error is 0.465
+('bestStump: ', {'dim': 3, 'ineq': 'lt', 'thresh': 67.274764726360161})
+split: dim 3, thresh  73.91, thresh inequal: lt, the weighted error is 0.465
+('bestStump: ', {'dim': 3, 'ineq': 'lt', 'thresh': 73.908699764326826})
+split: dim 3, thresh  80.54, thresh inequal: lt, the weighted error is 0.465
+('bestStump: ', {'dim': 3, 'ineq': 'lt', 'thresh': 80.542634802293506})
+split: dim 3, thresh  87.18, thresh inequal: lt, the weighted error is 0.464
+('bestStump: ', {'dim': 3, 'ineq': 'lt', 'thresh': 87.176569840260171})
+split: dim 3, thresh  93.81, thresh inequal: lt, the weighted error is 0.464
+('bestStump: ', {'dim': 3, 'ineq': 'lt', 'thresh': 93.810504878226837})
+split: dim 3, thresh  100.44, thresh inequal: lt, the weighted error is 0.464
+('bestStump: ', {'dim': 3, 'ineq': 'lt', 'thresh': 100.4444399161935})
+split: dim 3, thresh  107.08, thresh inequal: lt, the weighted error is 0.464
+('bestStump: ', {'dim': 3, 'ineq': 'lt', 'thresh': 107.07837495416017})
+______in i:4, minVal:0.935414, maxVal:4959.933253, max-min:4958.997839
+______in i:5, minVal:0.000000, maxVal:4878.821374, max-min:4878.821374
+('bestStump: ', {'dim': 3, 'ineq': 'lt', 'thresh': 107.07837495416017, 'alpha': 0.07299705831438238})
+('total error is: ', 0.14693569499640327)
+('__________', 12)
+______in i:0, minVal:1139.625000, maxVal:2962.125000, max-min:1822.500000
+split: dim 0, thresh  1135.98, thresh inequal: lt, the weighted error is 0.498
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1135.98})
+split: dim 0, thresh  1139.62, thresh inequal: lt, the weighted error is 0.498
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1139.625})
+split: dim 0, thresh  1205.23, thresh inequal: lt, the weighted error is 0.498
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1205.2349999999999})
+split: dim 0, thresh  1332.81, thresh inequal: lt, the weighted error is 0.498
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1332.8099999999999})
+split: dim 0, thresh  1358.33, thresh inequal: lt, the weighted error is 0.498
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1358.325})
+split: dim 0, thresh  1398.42, thresh inequal: lt, the weighted error is 0.498
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1398.4200000000001})
+split: dim 0, thresh  1405.71, thresh inequal: lt, the weighted error is 0.498
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1405.71})
+split: dim 0, thresh  1438.51, thresh inequal: lt, the weighted error is 0.498
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1438.5149999999999})
+split: dim 0, thresh  1474.96, thresh inequal: lt, the weighted error is 0.498
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1474.9649999999999})
+split: dim 0, thresh  1493.19, thresh inequal: lt, the weighted error is 0.498
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1493.1900000000001})
+split: dim 0, thresh  1507.77, thresh inequal: lt, the weighted error is 0.498
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1507.77})
+split: dim 0, thresh  1522.35, thresh inequal: lt, the weighted error is 0.498
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1522.3499999999999})
+split: dim 0, thresh  1525.99, thresh inequal: lt, the weighted error is 0.498
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1525.9949999999999})
+split: dim 0, thresh  1544.22, thresh inequal: lt, the weighted error is 0.497
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1544.22})
+split: dim 0, thresh  1547.87, thresh inequal: lt, the weighted error is 0.497
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1547.865})
+split: dim 0, thresh  1558.80, thresh inequal: lt, the weighted error is 0.497
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1558.8})
+split: dim 0, thresh  1562.44, thresh inequal: lt, the weighted error is 0.497
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1562.4449999999999})
+split: dim 0, thresh  1580.67, thresh inequal: lt, the weighted error is 0.497
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1580.6700000000001})
+split: dim 0, thresh  1584.32, thresh inequal: lt, the weighted error is 0.497
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1584.3150000000001})
+split: dim 0, thresh  1587.96, thresh inequal: lt, the weighted error is 0.497
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1587.96})
+split: dim 0, thresh  1591.61, thresh inequal: lt, the weighted error is 0.497
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1591.605})
+split: dim 0, thresh  1598.89, thresh inequal: lt, the weighted error is 0.497
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1598.895})
+split: dim 0, thresh  1602.54, thresh inequal: lt, the weighted error is 0.497
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1602.54})
+split: dim 0, thresh  1606.18, thresh inequal: lt, the weighted error is 0.497
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1606.1849999999999})
+split: dim 0, thresh  1609.83, thresh inequal: lt, the weighted error is 0.497
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1609.8299999999999})
+split: dim 0, thresh  1613.47, thresh inequal: lt, the weighted error is 0.497
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1613.4749999999999})
+split: dim 0, thresh  1617.12, thresh inequal: lt, the weighted error is 0.497
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1617.1199999999999})
+split: dim 0, thresh  1620.76, thresh inequal: lt, the weighted error is 0.497
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1620.7649999999999})
+split: dim 0, thresh  1624.41, thresh inequal: lt, the weighted error is 0.497
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1624.4100000000001})
+split: dim 0, thresh  1628.06, thresh inequal: lt, the weighted error is 0.497
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1628.0550000000001})
+split: dim 0, thresh  1631.70, thresh inequal: lt, the weighted error is 0.497
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1631.7})
+split: dim 0, thresh  1635.35, thresh inequal: lt, the weighted error is 0.497
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1635.345})
+split: dim 0, thresh  1638.99, thresh inequal: lt, the weighted error is 0.497
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1638.99})
+split: dim 0, thresh  1642.63, thresh inequal: lt, the weighted error is 0.497
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1642.635})
+split: dim 0, thresh  1646.28, thresh inequal: lt, the weighted error is 0.497
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1646.28})
+split: dim 0, thresh  1649.92, thresh inequal: lt, the weighted error is 0.497
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1649.925})
+split: dim 0, thresh  1653.57, thresh inequal: lt, the weighted error is 0.497
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1653.5700000000002})
+split: dim 0, thresh  1657.22, thresh inequal: lt, the weighted error is 0.497
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1657.2150000000001})
+split: dim 0, thresh  1660.86, thresh inequal: lt, the weighted error is 0.496
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1660.8600000000001})
+split: dim 0, thresh  1664.51, thresh inequal: lt, the weighted error is 0.496
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1664.5050000000001})
+split: dim 0, thresh  1668.15, thresh inequal: lt, the weighted error is 0.496
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1668.1500000000001})
+split: dim 0, thresh  1671.80, thresh inequal: lt, the weighted error is 0.496
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1671.7950000000001})
+split: dim 0, thresh  1675.44, thresh inequal: lt, the weighted error is 0.495
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1675.4400000000001})
+split: dim 0, thresh  1679.09, thresh inequal: lt, the weighted error is 0.495
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1679.085})
+split: dim 0, thresh  1682.73, thresh inequal: lt, the weighted error is 0.495
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1682.73})
+split: dim 0, thresh  1686.38, thresh inequal: lt, the weighted error is 0.495
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1686.375})
+split: dim 0, thresh  1690.02, thresh inequal: lt, the weighted error is 0.494
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1690.02})
+split: dim 0, thresh  1693.66, thresh inequal: lt, the weighted error is 0.494
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1693.665})
+split: dim 0, thresh  1697.31, thresh inequal: lt, the weighted error is 0.494
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1697.3099999999999})
+split: dim 0, thresh  1700.95, thresh inequal: lt, the weighted error is 0.493
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1700.9549999999999})
+split: dim 0, thresh  1704.60, thresh inequal: lt, the weighted error is 0.493
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1704.5999999999999})
+split: dim 0, thresh  1708.24, thresh inequal: lt, the weighted error is 0.492
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1708.2449999999999})
+split: dim 0, thresh  1711.89, thresh inequal: lt, the weighted error is 0.492
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1711.8899999999999})
+split: dim 0, thresh  1715.53, thresh inequal: lt, the weighted error is 0.491
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1715.5349999999999})
+split: dim 0, thresh  1719.18, thresh inequal: lt, the weighted error is 0.491
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1719.1799999999998})
+split: dim 0, thresh  1722.83, thresh inequal: lt, the weighted error is 0.491
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1722.825})
+split: dim 0, thresh  1726.47, thresh inequal: lt, the weighted error is 0.490
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1726.47})
+split: dim 0, thresh  1730.12, thresh inequal: lt, the weighted error is 0.490
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1730.115})
+split: dim 0, thresh  1733.76, thresh inequal: lt, the weighted error is 0.490
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1733.76})
+split: dim 0, thresh  1737.40, thresh inequal: lt, the weighted error is 0.490
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1737.405})
+split: dim 0, thresh  1741.05, thresh inequal: lt, the weighted error is 0.489
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1741.05})
+split: dim 0, thresh  1744.70, thresh inequal: lt, the weighted error is 0.489
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1744.6950000000002})
+split: dim 0, thresh  1748.34, thresh inequal: lt, the weighted error is 0.488
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1748.3400000000001})
+split: dim 0, thresh  1751.99, thresh inequal: lt, the weighted error is 0.488
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1751.9850000000001})
+split: dim 0, thresh  1755.63, thresh inequal: lt, the weighted error is 0.488
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1755.6300000000001})
+split: dim 0, thresh  1759.28, thresh inequal: lt, the weighted error is 0.487
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1759.2750000000001})
+split: dim 0, thresh  1803.01, thresh inequal: lt, the weighted error is 0.487
+('bestStump: ', {'dim': 0, 'ineq': 'lt', 'thresh': 1803.0149999999999})
+split: dim 0, thresh  2010.78, thresh inequal: gt, the weighted error is 0.485
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 2010.78})
+split: dim 0, thresh  2014.42, thresh inequal: gt, the weighted error is 0.484
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 2014.425})
+split: dim 0, thresh  2029.01, thresh inequal: gt, the weighted error is 0.482
+('bestStump: ', {'dim': 0, 'ineq': 'gt', 'thresh': 2029.0050000000001})
+split: dim 0, thresh  2032.65, thresh inequal: gt, the weighted error is 0.480
+('bes
