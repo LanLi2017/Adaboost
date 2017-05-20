@@ -5,7 +5,7 @@ from Amodeltemp import AdaboostClassifier
 data=[]
 # read the original data [seq_number,x,y,z,label, user]
 for id in range(1,16):
-   with open('../%d.csv'%id,'rt') as csvfile:
+   with open('./%d.csv'%id,'rt') as csvfile:
        for row in csvfile:
            row=row.split(',')
            row_data=[float(d) for d in row]
