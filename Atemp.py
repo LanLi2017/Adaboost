@@ -217,7 +217,7 @@ def evaluate(train_raw, test_raw, window_size, step):
     len_test=len(test_data[1])
     test_raw_246=[]
     for i in range(len_test):
-        if i ==-1:
+        if predict_result[i]==-1:
             if test_data[i]!=-1:
                 error_count+=1
         else:
